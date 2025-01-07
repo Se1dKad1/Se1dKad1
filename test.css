@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ubutton{
     border: none; 
     border-radius: 10px; 
@@ -12,4 +13,20 @@
     box-shadow: none;
     position: relative;
     top: 5px;
+=======
+#ubutton{
+    border: none; 
+    border-radius: 10px; 
+    text-decoration: none; 
+    color: white; 
+    background: #0B63F6;
+     box-shadow: 0 5px 0 #003CC5;
+}
+
+#ubutton:hover {
+    background: #003CC5;
+    box-shadow: none;
+    position: relative;
+    top: 5px;
+>>>>>>> ab1d87ccc6f075060f0612dd9ae4052cb379bef9
 }
